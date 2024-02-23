@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a scientist currently working as an engineer.
-- 👩‍🔬 I have a PhD degree from the Max Plank Institute for Gravitational Physics.
+- 👩‍🔬 I am a Systems Engineer with a PhD degree from the Max Plank Institute for Gravitational Physics.
 - 🌱 I like to code and I am interested in image processing and its applications.
 - :zap: In my free time I like to go for a run, cook or write.
 <!--

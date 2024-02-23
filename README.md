@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as a Systems Engineer at KLA Corporation.
+- 🔭 I am a scientist currently working as an engineer.
 - 👩‍🔬 I have a PhD degree from the Max Plank Institute for Gravitational Physics.
 - 🌱 I like to code and constantly improving my ML skills.
 - :zap: In my free time I like to go for a run, cook or write.
